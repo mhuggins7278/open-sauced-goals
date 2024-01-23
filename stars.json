@@ -1,26 +1,26 @@
 [
   {
     "full_name": "christoomey/vim-tmux-navigator",
-    "stargazers_count": 4650,
+    "stargazers_count": 4663,
     "open_issues_count": 56,
     "forks_count": 301
   },
   {
     "full_name": "joshmedeski/t-smart-tmux-session-manager",
-    "stargazers_count": 290,
+    "stargazers_count": 291,
     "open_issues_count": 0,
     "forks_count": 51
   },
   {
     "full_name": "1amSimp1e/dots",
-    "stargazers_count": 1005,
-    "open_issues_count": 0,
+    "stargazers_count": 1011,
+    "open_issues_count": 1,
     "forks_count": 64
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 38816,
-    "open_issues_count": 120,
-    "forks_count": 2030
+    "stargazers_count": 38922,
+    "open_issues_count": 128,
+    "forks_count": 2040
   }
 ]
