@@ -1,9 +1,9 @@
 [
   {
     "full_name": "christoomey/vim-tmux-navigator",
-    "stargazers_count": 4792,
+    "stargazers_count": 4797,
     "open_issues_count": 56,
-    "forks_count": 302
+    "forks_count": 303
   },
   {
     "full_name": "joshmedeski/t-smart-tmux-session-manager",
@@ -19,8 +19,8 @@
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 41369,
-    "open_issues_count": 121,
-    "forks_count": 2117
+    "stargazers_count": 41467,
+    "open_issues_count": 127,
+    "forks_count": 2123
   }
 ]
