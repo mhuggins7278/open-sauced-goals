@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "CopilotC-Nvim/CopilotChat.nvim",
+    "stargazers_count": 1381,
+    "open_issues_count": 14,
+    "forks_count": 68
+  },
+  {
     "full_name": "christoomey/vim-tmux-navigator",
-    "stargazers_count": 5159,
-    "open_issues_count": 64,
-    "forks_count": 320
+    "stargazers_count": 5165,
+    "open_issues_count": 65,
+    "forks_count": 319
   },
   {
     "full_name": "joshmedeski/t-smart-tmux-session-manager",
@@ -13,14 +19,14 @@
   },
   {
     "full_name": "1amSimp1e/dots",
-    "stargazers_count": 1240,
+    "stargazers_count": 1242,
     "open_issues_count": 6,
     "forks_count": 74
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 44799,
-    "open_issues_count": 141,
-    "forks_count": 2339
+    "stargazers_count": 44860,
+    "open_issues_count": 150,
+    "forks_count": 2348
   }
 ]
