@@ -1,37 +1,37 @@
 [
   {
     "full_name": "yetone/avante.nvim",
-    "stargazers_count": 15812,
-    "open_issues_count": 146,
-    "forks_count": 712
+    "stargazers_count": 15841,
+    "open_issues_count": 140,
+    "forks_count": 715
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 75081,
+    "stargazers_count": 75141,
     "open_issues_count": 630,
-    "forks_count": 7172
+    "forks_count": 7191
   },
   {
     "full_name": "nikitabobko/AeroSpace",
-    "stargazers_count": 15242,
-    "open_issues_count": 180,
-    "forks_count": 308
+    "stargazers_count": 15320,
+    "open_issues_count": 182,
+    "forks_count": 312
   },
   {
     "full_name": "joshmedeski/sesh",
-    "stargazers_count": 1259,
-    "open_issues_count": 58,
+    "stargazers_count": 1267,
+    "open_issues_count": 60,
     "forks_count": 69
   },
   {
     "full_name": "CopilotC-Nvim/CopilotChat.nvim",
-    "stargazers_count": 3267,
+    "stargazers_count": 3284,
     "open_issues_count": 17,
-    "forks_count": 152
+    "forks_count": 151
   },
   {
     "full_name": "christoomey/vim-tmux-navigator",
-    "stargazers_count": 5873,
+    "stargazers_count": 5878,
     "open_issues_count": 78,
     "forks_count": 351
   },
@@ -43,14 +43,14 @@
   },
   {
     "full_name": "1amSimp1e/dots",
-    "stargazers_count": 1564,
+    "stargazers_count": 1566,
     "open_issues_count": 4,
     "forks_count": 84
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 53177,
-    "open_issues_count": 184,
-    "forks_count": 2868
+    "stargazers_count": 53242,
+    "open_issues_count": 191,
+    "forks_count": 2871
   }
 ]
